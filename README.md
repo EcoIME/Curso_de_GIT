@@ -1,5 +1,4 @@
-*************Curso de Git****************
-
+#################### Curso de Git #######################
 Exercício 1 :
 	Criar uma branch
 
