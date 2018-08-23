@@ -8,3 +8,6 @@ Exercício 2 :
 
 Exercício 3 :
 	Pegar um repositório e subir um programa para ele
+
+Exemplo :
+	Essa alteração existe somente na branch
